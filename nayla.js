@@ -1,4 +1,4 @@
-// PUNYA SAYA [ RIMURUBOTZ ] JANGAN UBAH THX TO YA
+// PUNYA SAYA [ RetoGanzz ] JANGAN UBAH THX TO YA
 // DILARANG DI PERJUAL BELIKAN
 const respon = require('./lib/respon.js');
 const iklan = require('./admin/iklan.js');
@@ -649,7 +649,7 @@ const menu = `▬▭▬▭▬▭▬▭▬▭▬▭
 ➵ Melanggar peraturan di atas dapat mendapatkan sanksi seperti banned/block user
 ▬▭▬▭▬▭▬▭▬▭▬▭
 => [ *THX TO* ]
-➵ *RIMURUBOTZ*
+➵ *RetoGanzz*
 ➵ *LORD RYNZ*
 ➵ *ADIWAJSHING*
 ➵ *MEGAWATI*
