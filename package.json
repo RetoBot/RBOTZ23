@@ -1,5 +1,5 @@
 {
-  "name": "rimuru-bot",
+  "name": "RetoBot",
   "version": "1.0.0",
   "description": "Bot whatsapp multi device",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "multidevice",
     "multi-device"
   ],
-  "author": "BOT",
+  "author": "RetoGanzz",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
