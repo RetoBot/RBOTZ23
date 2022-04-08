@@ -1,11 +1,11 @@
 exports.iklan1 = () => {
-  return `[ YOUR_IKLAN ]`
+  return `[ OPEN TOP UP GAME ML DAN FF ]`
 };
 
 exports.iklan2 = () => {
-  return `[ YOUR_IKLAN ]`
+  return `[ OPEN SEWA BOT ]`
 };
 
 exports.iklan3 = () => {
-  return `[ YOUR_IKLAN ]`
+  return `[ OPEN SEWA RUN BOT ]`
 };
